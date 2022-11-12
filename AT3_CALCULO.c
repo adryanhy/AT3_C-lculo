@@ -4,6 +4,9 @@
 #include <unistd.h>
 #include <string.h>
 
+/* ATIVIDADE 3 - CALCULO - ADS */
+/* INTEGRANTES:  Adryan Andre, Bruno Ricardo, Luana S. Ribeiro, Lucas Araujo e Higor Gonçalves */
+
 void header(){
     printf("*--------------------------------*");
 }
